@@ -268,6 +268,7 @@ FinGraph-Sentinel/
 ## 👨‍💻 Author & Acknowledgments
 
 - **Lead Developer:** [Mohit Madhav](https://github.com/mohitmadhav06)
+- **System Architecture Developer:** [Monish M](https://github.com/monish-dot)
 - **Track:** First Commit 2026 Hackathon ("SHIP IT" Track)
 - **Built with:** Amazon Bedrock, Strands Agents SDK, FastAPI, React 19, Tailwind CSS, XYFlow, NetworkX, and Scikit-Learn.
 
